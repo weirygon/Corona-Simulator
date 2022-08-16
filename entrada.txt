@@ -1,0 +1,11 @@
+agente_atua 2
+vírus_multiplica 5
+inserefamilia F1 3
+inserefamilia F2 5
+inserefamilia F3 1
+ligafamilias F1 F2
+ligafamilias F2 F3
+inserevirus F3
+iniciasimulacao 50
+verificasurto
+FIM
